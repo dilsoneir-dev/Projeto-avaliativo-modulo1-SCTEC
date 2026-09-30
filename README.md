@@ -1,10 +1,10 @@
 # Análise de Recursos Humanos — Base HR (FreeSQL)
 
-**Disciplina:** Visualização de Dados e Business Intelligence [T3]  
-**Instituição:** SENAI / SCTEC — Módulo 1 
-**Aluno:** Dilsonei José Rigotti
-**Orientadora:** Cibelle Maciel
-**Turma:** Carreira Tech - Trilha Análise de Dados - SCTEC / SENAI  
+**Disciplina:** Visualização de Dados e Business Intelligence [T3] <br>
+**Instituição:** SENAI / SCTEC — Módulo 1 <br>
+**Aluno:** Dilsonei José Rigotti <br>
+**Orientadora:** Cibelle Maciel <br>
+**Turma:** Carreira Tech - Trilha Análise de Dados - SCTEC / SENAI <br>
 
 ---
 
@@ -223,5 +223,5 @@ Exibe a divisão de força de trabalho entre as Américas e a Europa.
 
 ## 09. Link da Apresentação em Vídeo (Até 7 minutos)
 
-- **Link do Vídeo:** `[Inserir o link do YouTube, Google Drive ou Loom aqui]`
-- **Roteiro do Vídeo:** Responde objetivamente aos 6 tópicos da seção 3.3 do edital (objetivo e filtros, salários por cargo/departamento, distribuição geográfica, média vs. mediana, explicação dos gráficos e limitações dos dados).
+- **Link do Vídeo:** `[Inserir o link do YouTube]`
+
