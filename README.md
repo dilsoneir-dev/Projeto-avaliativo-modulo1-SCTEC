@@ -223,5 +223,5 @@ Exibe a divisão de força de trabalho entre as Américas e a Europa.
 
 ## 09. Link da Apresentação em Vídeo (Até 7 minutos)
 
-- **Link do Vídeo:** `[Inserir o link do YouTube]`
+- **Link do Vídeo:** (https://youtu.be/i9kbaM3-xlE)
 
